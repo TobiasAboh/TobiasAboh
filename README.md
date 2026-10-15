@@ -13,7 +13,8 @@ I build software across backend, web, and mobile. I enjoy turning ideas into wor
 
 ### Featured projects
 
-- 🎧 **AudioMemes** — A full-stack audio-sharing app with an Expo/React Native client and Go backend, PostgreSQL, object storage, and audio processing. The source remains private while I develop it as a commercial product.
+- 🎧 **[AudioMemes — project showcase](https://github.com/TobiasAboh/audio-memes-showcase)** — Like Tenor, but for audio memes instead. An audio-meme product ecosystem with a React Native/Expo client, Go backend, PostgreSQL, AWS S3 storage, a SaaS API, and a Discord bot that uses the API. The production source code remains private.
+  - 🤖 [Invite the AudioMemes Discord bot](https://discord.com/oauth2/authorize?client_id=1558771955774132315)
 - 📷 **[camera-engine](https://github.com/TobiasAboh/camera-engine)** — A React Native library project exploring TypeScript APIs, native Android/iOS integration, code generation, and library build tooling.
 - 🫂 **[dont-judge](https://github.com/TobiasAboh/dont-judge)** — A deployed anonymous-confessions social app built with Next.js 15, React 19, MongoDB/Mongoose, and Socket.IO.
 - 🎬 **[moviehub](https://github.com/TobiasAboh/moviehub)** — A full-stack movie discovery app with a Next.js frontend and Go/Gin backend, including account flows, search, content details, likes, watched items, and watchlists.
