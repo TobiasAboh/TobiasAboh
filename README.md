@@ -15,9 +15,9 @@ I build software across backend, web, and mobile. I enjoy turning ideas into wor
 
 - 🎧 **AudioMemes** — A full-stack audio-sharing app with an Expo/React Native client and Go backend, PostgreSQL, object storage, and audio processing. The source remains private while I develop it as a commercial product.
 - 📷 **[camera-engine](https://github.com/TobiasAboh/camera-engine)** — A React Native library project exploring TypeScript APIs, native Android/iOS integration, code generation, and library build tooling.
-- 🫂 **[dont-judge](https://github.com/TobiasAboh/dont-judge)** — A deployed anonymous-confessions social app built with Next.js and React, with MongoDB/Mongoose and Socket.IO.
-- 🎬 **[moviehub](https://github.com/TobiasAboh/moviehub)** — A web application project.
-- 🔄 **[learn-cicd-starter](https://github.com/TobiasAboh/learn-cicd-starter)** — A Go application used to explore CI/CD workflows.
+- 🫂 **[dont-judge](https://github.com/TobiasAboh/dont-judge)** — A deployed anonymous-confessions social app built with Next.js 15, React 19, MongoDB/Mongoose, and Socket.IO.
+- 🎬 **[moviehub](https://github.com/TobiasAboh/moviehub)** — A full-stack movie discovery app with a Next.js frontend and Go/Gin backend, including account flows, search, content details, likes, watched items, and watchlists.
+- 🔄 **[learn-cicd-starter](https://github.com/TobiasAboh/learn-cicd-starter)** — A Go project based on the Notely CI/CD learning course, with a GitHub Actions workflow.
 
 ### What I’m looking for
 
